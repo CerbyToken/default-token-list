@@ -80,6 +80,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ltc.jpg"
   },
   {
+    "name": "Cerby Token",
+    "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
+    "symbol": "CERBY",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/smartchain/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
+  },
+  {
     "name": "Cardano Token",
     "symbol": "ADA",
     "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",

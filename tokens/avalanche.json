@@ -40,6 +40,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
   },
   {
+    "name": "Cerby Token",
+    "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
+    "symbol": "CERBY",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/avalanche/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
+  },
+  {
     "chainId": 43114,
     "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
     "decimals": 18,

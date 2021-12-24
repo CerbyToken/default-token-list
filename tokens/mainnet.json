@@ -392,6 +392,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cel.jpg"
   },
   {
+    "name": "Cerby Token",
+    "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
+    "symbol": "CERBY",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
+  },
+  {
     "address": "0xC76FB75950536d98FA62ea968E1D6B45ffea2A55",
     "chainId": 1,
     "name": "COL",
